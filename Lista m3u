@@ -1,0 +1,10 @@
+#EXPM3U
+
+#EXTINF-1 ,Antena 3
+https://livestartover.atresmedia.com/antena3/master.m3u8
+
+#EXTINF:-1 group-title="Nacional" tvg-id="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Boing.svg/240px-Boing.svg.png" url-epg="https://raw.githubusercontent.com/vk496/IPTVspain/master/guide.xml",Boing
+https://pastebin.com/raw/afgk7wAC
+
+#EXTINF-1 , Clan
+https://www.rtve.es/play/videos/directo/clan/
